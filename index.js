@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bekijkt 24/7 Wolf Bots Community"];
+const statusMessages = ["Bekijkt Wolf Bots Community"];
 
 
 let currentIndex = 0;
