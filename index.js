@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to 24/7 Uptime","Hosted By Medium Bots"];
+const statusMessages = ["Bekijkt 24/7 Wolf Bots Community"];
 
 
 let currentIndex = 0;
