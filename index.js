@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bekijkt Wolf Bots Community"];
+const statusMessages = ["Bekijkt https://sites.google.com/view/wolfbots/homepage"];
 
 
 let currentIndex = 0;
